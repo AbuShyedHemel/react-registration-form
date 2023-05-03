@@ -1,12 +1,18 @@
 .header {
-    color: red;
-    text-align: center;
+  color: red;
+  text-align: center;
 }
 .button {
-    background-color: greenyellow;
-    color: black;
-    align-items: center;
-    height: 30px;
-    width: 100px;
-    position: center;
+  background-color: greenyellow;
+  color: black;
+  text-align: center;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 40px;
+  width: 100px;
+}
+.flag{
+    text-align: center;
 }
