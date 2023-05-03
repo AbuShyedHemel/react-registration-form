@@ -1,0 +1,12 @@
+.header {
+    color: red;
+    text-align: center;
+}
+.button {
+    background-color: greenyellow;
+    color: black;
+    align-items: center;
+    height: 30px;
+    width: 100px;
+    position: center;
+}
